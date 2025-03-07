@@ -1,0 +1,14 @@
+Text,Sentiment
+"I love this!",Positive
+"This is awful.",Negative
+"It's okay.",Neutral
+"This phone has an amazing battery life and a stunning display.",Positive
+"The laptop overheats quickly and the battery drains fast.",Negative
+"The headphones are okay, but nothing special.",Neutral
+"I love the camera quality on this smartphone; it's fantastic!",Positive
+"The customer service was terrible and unhelpful.",Negative
+"The tablet is lightweight and very easy to use.",Positive
+"The software is buggy and crashes frequently.",Negative
+"The packaging was nice, but the product itself is just average.",Neutral
+"This smartwatch has exceeded all my expectations.",Positive
+"The build quality of the device feels cheap and flimsy.",Negative
