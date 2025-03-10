@@ -9,3 +9,346 @@ Text,Sentiment
 "The packaging was nice, but the product itself is just average.",Neutral
 "This smartwatch has exceeded all my expectations.",Positive
 "The build quality of the device feels cheap and flimsy.",Negative
+Statement,Sentiment
+"This product exceeded my expectations.",Positive
+"I absolutely love this item.",Positive
+"Great quality and excellent performance.",Positive
+"This was worth every penny!",Positive
+"Amazing product, will definitely buy again.",Positive
+"This product is completely useless.",Negative
+"I am very disappointed with my purchase.",Negative
+"Poor quality and terrible durability.",Negative
+"It stopped working after a few days.",Negative
+"Would not recommend this to anyone.",Negative
+"Excellent value for the price.",Positive
+"Terrible customer service experience.",Negative
+"This is one of the best purchases I’ve made.",Positive
+"The product arrived damaged and unusable.",Negative
+"Highly recommend it to my friends.",Positive
+"Not what I expected at all.",Negative
+"Great design and easy to use.",Positive
+"The instructions were confusing and unhelpful.",Negative
+"Fast shipping and great quality.",Positive
+"Completely unreliable and frustrating.",Negative
+"Fantastic performance, I’m impressed!",Positive
+"Shipping took forever, not happy.",Negative
+"This is the best product I’ve ever owned.",Positive
+"The item is poorly made and cheap.",Negative
+"Customer service was very helpful and kind.",Positive
+"I wouldn’t wish this on my worst enemy.",Negative
+"Quality is top-notch, highly recommend.",Positive
+"The product stopped working after a month.",Negative
+"I’m so glad I made this purchase!",Positive
+"This is absolutely not worth the money.",Negative
+"Very satisfied with the quality and price.",Positive
+"Totally disappointed, it doesn’t work at all.",Negative
+"A reliable and durable product.",Positive
+"Cheap materials and terrible design.",Negative
+"My family loves this product.",Positive
+"I had high hopes, but this failed me.",Negative
+"This fits perfectly and works like a charm.",Positive
+"It’s a complete waste of time and money.",Negative
+"Outstanding experience, I’m thrilled!",Positive
+"The product arrived broken and defective.",Negative
+"Works as advertised, very happy with it.",Positive
+"The packaging was damaged and messy.",Negative
+"This has been a game-changer for me!",Positive
+"Extremely dissatisfied, I want a refund.",Negative
+"The quality exceeded my expectations.",Positive
+"It doesn’t match the description at all.",Negative
+"I’m so happy I bought this product.",Positive
+"The experience with this item is terrible.",Negative
+"Perfect for what I needed.",Positive
+"A nightmare to deal with, avoid it.",Negative
+"This makes my life so much easier.",Positive
+"The worst product I have ever owned.",Negative
+"Incredible craftsmanship and attention to detail.",Positive
+"Completely useless and poorly designed.",Negative
+"I’m very impressed with the performance.",Positive
+"It fell apart after minimal use.",Negative
+"Better than I could have imagined!",Positive
+"This has been a frustrating experience.",Negative
+"Highly functional and very efficient.",Positive
+"It doesn’t do what it’s supposed to.",Negative
+"A fantastic addition to my collection.",Positive
+"The product doesn’t even turn on.",Negative
+"Wonderful product with great features.",Positive
+"Horrible experience, do not recommend.",Negative
+"Very user-friendly and intuitive.",Positive
+"It came with missing parts.",Negative
+"Absolutely worth the investment.",Positive
+"Terribly overpriced for what it is.",Negative
+"This has become my favorite product.",Positive
+"I regret purchasing this so much.",Negative
+"Great value for the quality.",Positive
+"The item broke almost immediately.",Negative
+"A sleek and stylish product.",Positive
+"It’s a scam, don’t buy this.",Negative
+"This has been a wonderful purchase.",Positive
+"It doesn’t hold up to everyday use.",Negative
+"Exactly what I was looking for.",Positive
+"I wish I had read the reviews first.",Negative
+"Everything about this is perfect.",Positive
+"This failed to meet my expectations.",Negative
+"An absolute must-have product.",Positive
+"This is by far the worst item ever.",Negative
+"Love the design and the usability.",Positive
+"It arrived late and damaged.",Negative
+"I’m extremely pleased with the purchase.",Positive
+"The quality is subpar and disappointing.",Negative
+"Impressive performance, very pleased.",Positive
+"It’s way too complicated to use.",Negative
+"I’ve had such a positive experience.",Positive
+"The warranty process is a nightmare.",Negative
+"Great product, I’m beyond satisfied!",Positive
+"It’s poorly made and unreliable.",Negative
+Statement,Sentiment
+"I am extremely satisfied with the durability.",Positive
+"Not worth the price at all.",Negative
+"This item is exactly what I needed.",Positive
+"The product didn't work as advertised.",Negative
+"Very happy with my purchase, highly recommended.",Positive
+"The quality is way below standard.",Negative
+"Outstanding craftsmanship and performance.",Positive
+"I am so disappointed; it doesn't even work.",Negative
+"Will definitely purchase this product again!",Positive
+"The worst investment I’ve ever made.",Negative
+"It’s so easy to use and works perfectly.",Positive
+"The instructions were vague and unhelpful.",Negative
+"Better than I expected, absolutely great!",Positive
+"Arrived broken, very poor quality.",Negative
+"Amazing service and high-quality product.",Positive
+"It broke after the first use, terrible product.",Negative
+"I couldn't be happier with this item!",Positive
+"This product is a complete ripoff.",Negative
+"Great product and fast delivery too.",Positive
+"I wasted my money on this useless thing.",Negative
+"Fantastic experience, I’m very pleased.",Positive
+"The product is nothing like the description.",Negative
+"It’s been a joy to use this item.",Positive
+"The material feels cheap and fragile.",Negative
+"This is my favorite purchase in a long time.",Positive
+"It stopped working only after a few days.",Negative
+"Exceptional quality and performance.",Positive
+"The customer service was not helpful at all.",Negative
+"It performs better than expected, fantastic!",Positive
+"I regret buying this, totally useless.",Negative
+"Very durable and perfect for my needs.",Positive
+"The design is poor and inconvenient.",Negative
+"I'm super impressed with the build quality.",Positive
+"The product arrived later than promised.",Negative
+"A truly premium product, worth every penny.",Positive
+"It's unreliable and doesn't meet the expectations.",Negative
+"This product has exceeded all my expectations.",Positive
+"The buttons don’t even function properly.",Negative
+"I'm delighted with the ease of use.",Positive
+"The packaging was damaged upon arrival.",Negative
+"Top-notch product and works flawlessly!",Positive
+"It's overpriced and not worth the money.",Negative
+"Exactly what I was looking for, very pleased.",Positive
+"The color faded after just one wash.",Negative
+"This is one of the best items I’ve owned.",Positive
+"It’s very flimsy and not well-made.",Negative
+"Awesome product, five stars!",Positive
+"The experience with this product was awful.",Negative
+"Superb functionality and very reliable.",Positive
+"I was shocked by how bad this is.",Negative
+"I’m incredibly impressed by the quality.",Positive
+"Completely failed to meet my expectations.",Negative
+"I use it daily and love it!",Positive
+"The product doesn’t perform as stated.",Negative
+"It’s a lifesaver, absolutely love it.",Positive
+"The durability is questionable at best.",Negative
+"Very elegant design and amazing quality.",Positive
+"I feel scammed; it’s a horrible purchase.",Negative
+"I would recommend this to everyone I know.",Positive
+"It’s poorly constructed and falls apart.",Negative
+"Delivers on its promise, great product.",Positive
+"The item doesn’t function correctly at all.",Negative
+"Works perfectly and is very easy to maintain.",Positive
+"The price is too high for such poor quality.",Negative
+"I am thrilled with this incredible product.",Positive
+"This product doesn’t do anything useful.",Negative
+"Fantastic addition to my setup, love it.",Positive
+"I wouldn’t buy this again under any circumstances.",Negative
+"It’s well-made and feels durable.",Positive
+"This was a bad investment, very regretful.",Negative
+"Easy to set up and works seamlessly.",Positive
+"The customer service was very disappointing.",Negative
+"It’s a reliable product that I can count on.",Positive
+"I can’t believe how terrible this is.",Negative
+"An essential product that I’m glad I purchased.",Positive
+"Stopped functioning after just a few weeks.",Negative
+"I couldn’t be happier with the results.",Positive
+"It doesn’t do what it’s supposed to.",Negative
+"It’s sleek, stylish, and works great.",Positive
+"The performance is below average, very poor.",Negative
+"I am highly satisfied with this product.",Positive
+"The product was scratched when it arrived.",Negative
+"One of the best purchases I’ve ever made.",Positive
+"The quality doesn’t justify the high price.",Negative
+"It’s sturdy and has a great design.",Positive
+"The worst customer experience I’ve had.",Negative
+"Absolutely love how easy it is to operate.",Positive
+"It’s just a cheap imitation, not worth it.",Negative
+"I would buy this again without hesitation.",Positive
+"The product doesn’t hold up over time.",Negative
+Statement,Sentiment
+"I’m beyond impressed with the results.",Positive
+"The product failed me in every way.",Negative
+"It’s incredibly durable and reliable.",Positive
+"This purchase was a huge mistake.",Negative
+"Absolutely fantastic product, I love it!",Positive
+"It stopped working within hours of use.",Negative
+"I’ve recommended it to all my friends.",Positive
+"The description was misleading and false.",Negative
+"It’s so practical and convenient to use.",Positive
+"I wish I could return it for a refund.",Negative
+"This is a game-changing product for me.",Positive
+"It’s cheaply made and doesn’t last long.",Negative
+"I couldn’t ask for a better product!",Positive
+"The product does not match its claims.",Negative
+"It’s well worth the money I spent.",Positive
+"I wouldn’t buy this product again.",Negative
+"An absolute joy to use daily.",Positive
+"The quality is extremely disappointing.",Negative
+"I’ll definitely buy this brand again.",Positive
+"The functionality is severely limited.",Negative
+"It’s both stylish and highly efficient.",Positive
+"This product is full of flaws and defects.",Negative
+"Everything works perfectly as described.",Positive
+"It was broken right out of the box.",Negative
+"The product has exceeded my expectations.",Positive
+"This was one of my worst purchases.",Negative
+"It’s a high-quality product at a great price.",Positive
+"The customer support was terrible.",Negative
+"This has been a fantastic experience.",Positive
+"It doesn’t meet any of my expectations.",Negative
+"A flawless product that I really enjoy.",Positive
+"It failed shortly after I started using it.",Negative
+"This is exactly what I was hoping for.",Positive
+"It’s a waste of money and time.",Negative
+"Perfect for anyone who needs reliability.",Positive
+"The build quality is very poor.",Negative
+"I love how easy this product is to use.",Positive
+"It’s nothing like what was advertised.",Negative
+"It has made my life so much easier.",Positive
+"The packaging was in terrible condition.",Negative
+"It’s efficient, functional, and reliable.",Positive
+"This is the worst purchase I’ve made.",Negative
+"Great product, I’m extremely satisfied!",Positive
+"The performance is well below average.",Negative
+"It’s a high-performing and durable item.",Positive
+"The product arrived in a defective state.",Negative
+"This is my go-to product from now on.",Positive
+"I regret spending money on this.",Negative
+"It has amazing features and functionality.",Positive
+"The customer service was very unhelpful.",Negative
+"I couldn’t be happier with this product.",Positive
+"It started falling apart after a week.",Negative
+"Outstanding quality and performance.",Positive
+"The user experience is absolutely terrible.",Negative
+"It’s worth every penny, highly recommend.",Positive
+"The features are incomplete and flawed.",Negative
+"An excellent addition to my home setup.",Positive
+"I feel let down by the poor quality.",Negative
+"This is a premium product that delivers.",Positive
+"The lack of durability is frustrating.",Negative
+"I’m impressed with its sturdy construction.",Positive
+"The product failed right after the warranty.",Negative
+"It’s reliable and works as advertised.",Positive
+Statement,Sentiment
+"I’m beyond impressed with the results.",Positive
+"The product failed me in every way.",Negative
+"It’s incredibly durable and reliable.",Positive
+"This purchase was a huge mistake.",Negative
+"Absolutely fantastic product, I love it!",Positive
+"It stopped working within hours of use.",Negative
+"I’ve recommended it to all my friends.",Positive
+"The description was misleading and false.",Negative
+"It’s so practical and convenient to use.",Positive
+"I wish I could return it for a refund.",Negative
+"This is a game-changing product for me.",Positive
+"It’s cheaply made and doesn’t last long.",Negative
+"I couldn’t ask for a better product!",Positive
+"The product does not match its claims.",Negative
+"It’s well worth the money I spent.",Positive
+"I wouldn’t buy this product again.",Negative
+"An absolute joy to use daily.",Positive
+"The quality is extremely disappointing.",Negative
+"I’ll definitely buy this brand again.",Positive
+"The functionality is severely limited.",Negative
+"It’s both stylish and highly efficient.",Positive
+"This product is full of flaws and defects.",Negative
+"Everything works perfectly as described.",Positive
+"It was broken right out of the box.",Negative
+"The product has exceeded my expectations.",Positive
+"This was one of my worst purchases.",Negative
+"It’s a high-quality product at a great price.",Positive
+"The customer support was terrible.",Negative
+"This has been a fantastic experience.",Positive
+"It doesn’t meet any of my expectations.",Negative
+"A flawless product that I really enjoy.",Positive
+"It failed shortly after I started using it.",Negative
+"This is exactly what I was hoping for.",Positive
+"It’s a waste of money and time.",Negative
+"Perfect for anyone who needs reliability.",Positive
+"The build quality is very poor.",Negative
+"I love how easy this product is to use.",Positive
+"It’s nothing like what was advertised.",Negative
+"It has made my life so much easier.",Positive
+"The packaging was in terrible condition.",Negative
+"It’s efficient, functional, and reliable.",Positive
+"This is the worst purchase I’ve made.",Negative
+"Great product, I’m extremely satisfied!",Positive
+"The performance is well below average.",Negative
+"It’s a high-performing and durable item.",Positive
+"The product arrived in a defective state.",Negative
+"This is my go-to product from now on.",Positive
+"I regret spending money on this.",Negative
+"It has amazing features and functionality.",Positive
+"The customer service was very unhelpful.",Negative
+"I couldn’t be happier with this product.",Positive
+"It started falling apart after a week.",Negative
+"Outstanding quality and performance.",Positive
+"The user experience is absolutely terrible.",Negative
+"It’s worth every penny, highly recommend.",Positive
+"The features are incomplete and flawed.",Negative
+"An excellent addition to my home setup.",Positive
+"I feel let down by the poor quality.",Negative
+"This is a premium product that delivers.",Positive
+"The lack of durability is frustrating.",Negative
+"I’m impressed with its sturdy construction.",Positive
+"The product failed right after the warranty.",Negative
+"It’s reliable and works as advertised.",Positive
+"This product is a total disaster.",Negative
+"It fits perfectly and performs beautifully.",Positive
+"I can’t believe how bad this product is.",Negative
+"Truly an impressive and versatile item.",Positive
+"The instructions were hard to understand.",Negative
+"It’s well-designed and easy to maintain.",Positive
+"The quality control is seriously lacking.",Negative
+"Perfectly suited for my needs and lifestyle.",Positive
+"The product doesn’t justify the price tag.",Negative
+"I’m thrilled with how it turned out.",Positive
+"It doesn’t even come close to working.",Negative
+"It has made a real difference in my life.",Positive
+"The product is unusable in its current state.",Negative
+"It’s exactly what I was looking for.",Positive
+"This was a complete and utter failure.",Negative
+"It offers great value and performance.",Positive
+"It’s far too fragile to be practical.",Negative
+"This product is everything I wanted.",Positive
+"I can’t recommend this product to anyone.",Negative
+"It’s sleek, modern, and works wonderfully.",Positive
+"The performance is absolutely unacceptable.",Negative
+"I feel confident recommending this product.",Positive
+"This has been nothing but a disappointment.",Negative
+"Very impressed with the high-quality finish.",Positive
+"It’s substandard and poorly manufactured.",Negative
+"It’s the best thing I’ve purchased recently.",Positive
+"The product doesn’t work as promised.",Negative
+
+
+
+
