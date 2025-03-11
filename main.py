@@ -13,13 +13,26 @@ key = os.getenv("AZURE_AI_KEY")
 # Initialize the client
 client = ChatCompletionsClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
-# Example inference request
-response = client.complete(
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": "What is the capital of France?"}
-    ],
-    model="gpt-4o-mini"
-)
+# Initialize the conversation
+messages = [
+    {"role": "system", "content": "You are a helpful assistant."}
+]
 
-print(response.choices[0].message.content)
+print("Start the conversation (type 'exit' to end):")
+
+while True:
+    user_input = input("You: ")
+    if user_input.lower() == 'exit':
+        break
+
+    messages.append({"role": "user", "content": user_input})
+
+    response = client.complete(
+        messages=messages,
+        model="gpt-4o-mini"
+    )
+
+    assistant_response = response.choices[0].message.content
+    print(f"Assistant: {assistant_response}")
+
+    messages.append({"role": "assistant", "content": assistant_response})
