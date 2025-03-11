@@ -29,7 +29,7 @@ while True:
 
     response = client.complete(
         messages=messages,
-        model="Phi-3-small-8k-instruct"
+        model="DeepSeek-V3"
     )
 
     assistant_response = response.choices[0].message.content
