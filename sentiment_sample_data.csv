@@ -1,21 +1,21 @@
 Text,Sentiment
-The product quality is excellent and exceeded my expectations.,positive
-I am very satisfied with my purchase.,positive
-The product arrived on time and works as described.,positive
-Great value for the price.,positive
-I love this product! Highly recommend it.,positive
-"The product is okay, but not great.",neutral
-"It's an average product, nothing special.",neutral
-The product is neither good nor bad.,neutral
-It's a decent product for the price.,neutral
-The product is satisfactory.,neutral
-The product quality is poor and it broke after a week.,negative
-I am disappointed with this purchase.,negative
-The product did not meet my expectations.,negative
-Terrible customer service and a faulty product.,negative
-I would not recommend this product to anyone.,negative
-The product is not worth the money.,negative
-I regret buying this product.,negative
-The product arrived damaged and unusable.,negative
-Very dissatisfied with the quality of the product.,negative
-The product description was misleading.,negative
+The product quality is excellent and exceeded my expectations.,Positive
+I am very satisfied with my purchase.,Positive
+The product arrived on time and works as described.,Positive
+Great value for the price.,Positive
+I love this product! Highly recommend it.,Positive
+"The product is okay, but not great.",Neutral
+"It's an average product, nothing special.",Neutral
+The product is neither good nor bad.,Neutral
+It's a decent product for the price.,Neutral
+The product is satisfactory.,Neutral
+The product quality is poor and it broke after a week.,Negative
+I am disappointed with this purchase.,Negative
+The product did not meet my expectations.,Negative
+Terrible customer service and a faulty product.,Negative
+I would not recommend this product to anyone.,Negative
+The product is not worth the money.,Negative
+I regret buying this product.,Negative
+The product arrived damaged and unusable.,Negative
+Very dissatisfied with the quality of the product.,Negative
+The product description was misleading.,Negative
