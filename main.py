@@ -19,7 +19,7 @@ response = client.complete(
         {"role": "system", "content": "You are a helpful assistant."},
         {"role": "user", "content": "What is the capital of France?"}
     ],
-    model="your-model-name"
+    model="gpt-4o-mini"
 )
 
 print(response.choices[0].message.content)
