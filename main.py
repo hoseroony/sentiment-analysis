@@ -29,7 +29,7 @@ while True:
 
     response = client.complete(
         messages=messages,
-        model="gpt-4o-mini"
+        model="Phi-3-small-8k-instruct"
     )
 
     assistant_response = response.choices[0].message.content
